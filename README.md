@@ -1,16 +1,13 @@
 
 # Simple SkyBlock
-A simple SkyBlock plugin for Spigot servers without any useless features, just the necessary.
 
 ![screenshot](https://zupimages.net/up/21/27/c38w.png)
 
 ## Version
 
-This plugin was originally made for `Spigot 1.17` but you can totally edit it to use it with others Minecraft versions.
-
 ## Installation
 
-1. Compile the project or download [this JAR file](https://github.com/kozennnn/simple-skyblock/releases/download/v0.1-ALPHA/skyrama-0.1-alpha.jar).
+1. Compile the project or download [this JAR file](https://www.minecraft.net/en-us/download/server).
 2. Place the plugin into your server plugin's directory.
 3. Restart your server or reload it with the command `/reload`.
 4. You can now configure the plugin in the `config.yml` file.
